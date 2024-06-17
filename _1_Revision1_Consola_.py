@@ -4,7 +4,7 @@ print(" ¡¡Revision Inicial tipos de datos, funciones, type() ")
 print("======================\n")
 print("Hola mundo\n")
 #suma simple-------------------------------------------
-print("Esto es una suma")
+print("Esto es una suma simple")
 Uno = 1
 Dos = 2
 Resultado = Uno+Dos
